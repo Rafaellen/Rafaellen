@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Rafaellen
-- 👀 I’m interested in em aprender mais sobre programação
-- 🌱 I’m currently procurando uma linguagem para começar a programar
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Rafaellen/Rafaellen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, eu sou a @Rafaellen! Bem-vindo ao meu perfil no GitHub 👋.
+- 👀 Estou interessada em aprender programação. Meus principais focos são a automação e o front.
+- 🌱 Atualmente já tenho um prévio conhecimento em HTML, CSS, JS, SQL E PYTHON.
+- 📫 Você pode me encontrar no Instagram @rafs_bandeira.
+- 💼 Atualmente trabalho no @Olist como jovem aprendiz.
